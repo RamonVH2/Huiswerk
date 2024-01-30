@@ -1,0 +1,1 @@
+Dit Go programma schrijft Users in JSON formaat weg naar een bestand en leest deze weer in.
